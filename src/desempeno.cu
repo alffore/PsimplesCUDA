@@ -9,7 +9,11 @@ __global__ void vectorAdd(float *A, float *B, float *C, int size) {
     }
 }
 
-int main() {
+int main(int argc , char **argv) {
+
+    int dispo= 0+std::atoi(argv[1]);
+    cudaSetDevice(dispo);
+
     // Definir el tamaño del vector y las variables de rendimiento
     const int N = 100000000; 
     const float M = 1.0f;
