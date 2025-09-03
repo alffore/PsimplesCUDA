@@ -8,5 +8,7 @@ nvcc ./src/desempeno.cu
 #nvcc ./src/pdisp.cu
 #./a.out
 
-
+nvcc ./src/nucleos.cu
+./a.out 0
+./a.out 1
 

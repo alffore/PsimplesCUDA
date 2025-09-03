@@ -1,0 +1,29 @@
+Se encontraron 2 dispositivo(s) CUDA.
+
+--- Dispositivo 0 ---
+  Nombre: NVIDIA GeForce GTX 970
+  Memoria global (MB): 4029
+  Número de multiprocesadores: 13
+  Versión de cómputo: 5.2
+
+--- Dispositivo 1 ---
+  Nombre: NVIDIA GeForce GTX 1050 Ti
+  Memoria global (MB): 4031
+  Número de multiprocesadores: 6
+  Versión de cómputo: 6.1
+Tiempo de ejecución del kernel: 48.1687 ms
+Rendimiento estimado: 2.07604 GFLOP/s (2076.04 MFLOP/s)
+Tiempo de ejecución del kernel: 38.7954 ms
+Rendimiento estimado: 2.57763 GFLOP/s (2577.63 MFLOP/s)
+--- Propiedades del Dispositivo 0 ---
+Nombre del dispositivo: NVIDIA GeForce GTX 970
+Capacidad de cómputo: 5.2
+Multiprocesadores (SM): 13
+Núcleos por SM: 128
+Total de núcleos CUDA: 1664
+--- Propiedades del Dispositivo 1 ---
+Nombre del dispositivo: NVIDIA GeForce GTX 1050 Ti
+Capacidad de cómputo: 6.1
+Multiprocesadores (SM): 6
+Núcleos por SM: 64
+Total de núcleos CUDA: 384
