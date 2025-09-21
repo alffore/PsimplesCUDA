@@ -1,4 +1,4 @@
-// 
+// gcc checa_opencl.c -o checa_opencl -lOpenCL
 #include <stdio.h>
 #include <stdlib.h>
 
